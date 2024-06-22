@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{89897A6B-4E65-930F-BFC6-BFB7596D3690}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE5EnhancedInputEx",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
