@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class UE5ENHANCEDINPUTEX_API AUE5EnhancedInputExGameModeBase : public AGameModeBase
+class UE5_COMMONUI_TEMP_API AUE5EnhancedInputExGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 

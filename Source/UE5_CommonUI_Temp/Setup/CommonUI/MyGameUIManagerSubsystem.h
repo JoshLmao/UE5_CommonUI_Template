@@ -6,7 +6,7 @@
 #include "MyGameUIManagerSubsystem.generated.h"
 
 UCLASS()
-class UE5ENHANCEDINPUTEX_API UMyGameUIManagerSubsystem : public UGameUIManagerSubsystem
+class UE5_COMMONUI_TEMP_API UMyGameUIManagerSubsystem : public UGameUIManagerSubsystem
 {
 	GENERATED_BODY()
 

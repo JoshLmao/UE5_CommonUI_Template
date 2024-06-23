@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class UE5EnhancedInputEx : ModuleRules
+public class UE5_CommonUI_Temp : ModuleRules
 {
-	public UE5EnhancedInputEx(ReadOnlyTargetRules Target) : base(Target)
+	public UE5_CommonUI_Temp(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 

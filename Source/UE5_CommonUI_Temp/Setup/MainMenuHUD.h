@@ -7,7 +7,7 @@
 #include "MainMenuHUD.generated.h"
 
 UCLASS(Abstract)
-class UE5ENHANCEDINPUTEX_API AMainMenuHUD : public AHUD
+class UE5_COMMONUI_TEMP_API AMainMenuHUD : public AHUD
 {
 	GENERATED_BODY()
 

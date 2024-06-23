@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class UE5ENHANCEDINPUTEX_API AUE5EnhancedInputPlayerController : public ACommonPlayerController
+class UE5_COMMONUI_TEMP_API AUE5EnhancedInputPlayerController : public ACommonPlayerController
 {
 	GENERATED_BODY()
 };

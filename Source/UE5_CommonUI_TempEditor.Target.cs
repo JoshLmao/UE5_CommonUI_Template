@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class UE5EnhancedInputExTarget : TargetRules
+public class UE5_CommonUI_TempEditorTarget : TargetRules
 {
-	public UE5EnhancedInputExTarget(TargetInfo Target) : base(Target)
+	public UE5_CommonUI_TempEditorTarget( TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Game;
+		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
-		ExtraModuleNames.Add("UE5EnhancedInputEx");
+		ExtraModuleNames.Add("UE5_CommonUI_Temp");
 	}
 }

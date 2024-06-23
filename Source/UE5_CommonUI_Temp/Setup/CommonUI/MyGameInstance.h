@@ -3,14 +3,14 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "CommonLocalPlayer.h"
-#include "MyCommonLocalPlayer.generated.h"
+#include "CommonGameInstance.h"
+#include "MyGameInstance.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class UE5ENHANCEDINPUTEX_API UMyCommonLocalPlayer : public UCommonLocalPlayer
+class UE5_COMMONUI_TEMP_API UMyGameInstance : public UCommonGameInstance
 {
 	GENERATED_BODY()
 	

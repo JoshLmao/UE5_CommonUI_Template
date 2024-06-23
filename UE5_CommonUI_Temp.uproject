@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "UE5EnhancedInputEx",
+			"Name": "UE5_CommonUI_Temp",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

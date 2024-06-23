@@ -6,7 +6,7 @@
 #include "MyPrimaryGameLayout.generated.h"
 
 UCLASS(Abstract)
-class UE5ENHANCEDINPUTEX_API UMyPrimaryGameLayout : public UPrimaryGameLayout
+class UE5_COMMONUI_TEMP_API UMyPrimaryGameLayout : public UPrimaryGameLayout
 {
 	GENERATED_BODY()
 
