@@ -15,4 +15,6 @@ Choose the "Use this template" option at the top of this repo to create your own
 
 After cloning your repo, you will have to rename the project and other things.
 
-// TODO: Populate with steps on renaming the project
+TL;DR: This commit is an example of what needs renaming: [935d000ce8527b6f3fd28831d2f6c71894089d6a](https://github.com/JoshLmao/UE5_CommonUI_Template/commit/935d000ce8527b6f3fd28831d2f6c71894089d6a)
+
+Follow this guide for more info: https://www.worldofleveldesign.com/categories/ue4/ue4-renaming-your-project.php
