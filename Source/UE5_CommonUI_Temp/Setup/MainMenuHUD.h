@@ -14,7 +14,7 @@ class UE5_COMMONUI_TEMP_API AMainMenuHUD : public AHUD
 public:
 	void BeginPlay() override;
 
-	UFUNCTION(ScriptCallable)
+	UFUNCTION()
 	void OpenWidget(FGameplayTag WidgetTag);
 
 protected:
